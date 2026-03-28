@@ -1,0 +1,17 @@
+Codename: sagaris
+Date: Sat, 28 Mar 2026 15:57:25 UTC
+Architectures: i386
+Components: main
+Description: InvictusOS Official Repository
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-i386/Packages.gz
+ 901d0a02e03dac1fd3979f37970bd81b 79 main/binary-i386/Release
+SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
+ 2755558478a5cac7ac67fee089909c635245ecdb 79 main/binary-i386/Release
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz
+ ed612adebd46967bea5fcba0607da7d1e5a6cb0cd7f354426a27d687a0396415 79 main/binary-i386/Release
